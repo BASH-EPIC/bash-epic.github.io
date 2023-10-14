@@ -8215,6 +8215,11 @@ mark,
   height: auto;
 }
 
+.img-customized {
+  max-width: 40%;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
